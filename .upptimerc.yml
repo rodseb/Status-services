@@ -1,24 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rodseb # Your GitHub organization or username, where this repository lives
+repo: Status-services # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Host
+    url: $SECRET_SITE
+  - name: Site web
+    url: https://spm-corp.fr
+
+   ##-- Services assetto corsa competizion --##
+  - name: ACC Tracker
+    url: http://45.155.169.5:51051
+  - name: ACC Web
+    url: http://45.155.169.5:8080
+    ## ACC Manager
+  - name: Serveur 1
+    url: http://45.155.169.5:9652
+  - name: Serveur 2
+    url: http://45.155.169.5:9651
+  - name: Serveur 3
+    url: http://45.155.169.5:9663
+  - name: Serveur 4
+    url: http://45.155.169.5:9665
+  - name: Serveur 5
+    url: http://45.155.169.5:9666
+  - name: Serveur 6
+    url: http://45.155.169.5:9667
+  - name: Serveur 7
+    url: http://45.155.169.5:9653
+  - name: Serveur 8
+    url: http://45.155.169.5:9654
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status-acc.spm-corp.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://spm-corp.fr/wp-content/uploads/2022/03/cropped-cropped-Logo_transparent-300x162-1.png
+  name: Status Servive SPM
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
