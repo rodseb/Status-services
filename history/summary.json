@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "host",
     "status": "up",
-    "uptime": "91.67%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "91.67%",
+    "uptime": "92.59%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "92.59%",
     "time": 750,
     "timeDay": 750,
     "timeWeek": 750,
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "acc-tracker",
     "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ACC Web",
@@ -63,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "acc-web",
     "status": "down",
-    "uptime": "96.83%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "96.83%",
+    "uptime": "86.03%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "86.03%",
     "time": 258,
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-08-25": 9
+      "2022-08-25": 46
     }
   },
   {
@@ -119,19 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-3",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 493,
     "timeDay": 493,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serveur 4",
@@ -139,19 +135,17 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-4",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 489,
     "timeWeek": 489,
     "timeMonth": 489,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serveur 5",
@@ -159,19 +153,17 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-5",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 482,
     "timeDay": 482,
     "timeWeek": 482,
     "timeMonth": 482,
     "timeYear": 482,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serveur 6",
@@ -179,19 +171,17 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-6",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 648,
     "timeDay": 648,
     "timeWeek": 648,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serveur 7",
@@ -199,38 +189,36 @@
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-7",
     "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "96.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 484,
     "timeDay": 484,
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2022-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serveur 8",
     "url": "http://45.155.169.5:9654",
     "icon": "https://favicons.githubusercontent.com/45.155.169.5",
     "slug": "serveur-8",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-08-25": 293
+      "2022-08-25": 329
     }
   }
 ]
