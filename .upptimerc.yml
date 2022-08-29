@@ -11,8 +11,6 @@ sites:
    ##-- Services assetto corsa competizion --##
   - name: ACC Tracker
     url: http://45.155.169.5:51051
-  - name: ACC Web
-    url: http://45.155.169.5:8080
     ## ACC Manager
   - name: Serveur 1
     url: http://45.155.169.5:9652
