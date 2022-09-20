@@ -24,19 +24,19 @@
     "url": "https://spm-corp.fr",
     "icon": "https://favicons.githubusercontent.com/spm-corp.fr",
     "slug": "site-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 996,
-    "timeWeek": 918,
-    "timeMonth": 1014,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1123,
+    "timeDay": 2693,
+    "timeWeek": 1352,
+    "timeMonth": 1123,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2022-09-20": 0
+      "2022-09-20": 9
     }
   },
   {
