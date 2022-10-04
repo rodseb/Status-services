@@ -6,7 +6,7 @@
     "slug": "host",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.92%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
@@ -46,7 +46,7 @@
     "slug": "acc-tracker",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -67,7 +67,7 @@
     "slug": "serveur-1",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,7 @@
     "slug": "serveur-2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,8 +107,8 @@
     "slug": "serveur-3",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
@@ -117,7 +117,7 @@
     "timeMonth": 496,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 1
     }
   },
   {
@@ -127,8 +127,8 @@
     "slug": "serveur-4",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
@@ -137,7 +137,7 @@
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 1
     }
   },
   {
@@ -147,8 +147,8 @@
     "slug": "serveur-5",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
@@ -157,7 +157,7 @@
     "timeMonth": 480,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 1
     }
   },
   {
@@ -167,8 +167,8 @@
     "slug": "serveur-6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 415,
@@ -177,7 +177,7 @@
     "timeMonth": 393,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 1
     }
   },
   {
@@ -187,7 +187,7 @@
     "slug": "serveur-7",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,7 @@
     "timeMonth": 490,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 1
     }
   },
   {
@@ -207,7 +207,7 @@
     "slug": "serveur-8",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
