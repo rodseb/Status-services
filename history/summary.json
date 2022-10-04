@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "97.08%",
-    "uptimeWeek": "99.28%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 739,
     "timeDay": 847,
-    "timeWeek": 714,
+    "timeWeek": 726,
     "timeMonth": 732,
     "timeYear": 739,
     "dailyMinutesDown": {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "acc-tracker",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.67%",
+    "uptimeDay": "88.89%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.67%",
     "time": 284,
     "timeDay": 269,
     "timeWeek": 246,
     "timeMonth": 262,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-10-04": 42,
+      "2022-10-04": 160,
       "2022-08-26": 31
     }
   },
@@ -65,19 +65,19 @@
     "url": "http://45.155.169.5:9652",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-1",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 502,
     "timeDay": 484,
     "timeWeek": 470,
     "timeMonth": 494,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 46
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "http://45.155.169.5:9651",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-2",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 563,
     "timeDay": 466,
     "timeWeek": 430,
     "timeMonth": 489,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 45
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "http://45.155.169.5:9663",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-3",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 498,
     "timeDay": 550,
     "timeWeek": 482,
     "timeMonth": 499,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 45
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "http://45.155.169.5:9665",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-4",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 482,
     "timeDay": 446,
     "timeWeek": 429,
     "timeMonth": 480,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 44
     }
   },
   {
@@ -145,19 +145,19 @@
     "url": "http://45.155.169.5:9666",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-5",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 492,
     "timeDay": 413,
     "timeWeek": 367,
     "timeMonth": 479,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 44
     }
   },
   {
@@ -165,10 +165,10 @@
     "url": "http://45.155.169.5:9667",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 416,
@@ -177,7 +177,7 @@
     "timeMonth": 394,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 43
     }
   },
   {
@@ -185,10 +185,10 @@
     "url": "http://45.155.169.5:9653",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 488,
@@ -197,7 +197,7 @@
     "timeMonth": 489,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2022-10-04": 42
+      "2022-10-04": 43
     }
   },
   {
@@ -205,12 +205,12 @@
     "url": "http://45.155.169.5:9654",
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.5.ico",
     "slug": "serveur-8",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 438,
     "timeDay": 395,
     "timeWeek": 358,
