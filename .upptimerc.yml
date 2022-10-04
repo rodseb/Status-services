@@ -13,21 +13,21 @@ sites:
     url: http://45.155.169.5:51051
     ## ACC Manager
   - name: Serveur 1
-    url: http://45.155.169.5:9652
+    url: http://45.155.169.5:9501
   - name: Serveur 2
-    url: http://45.155.169.5:9651
+    url: http://45.155.169.5:9502
   - name: Serveur 3
-    url: http://45.155.169.5:9663
+    url: http://45.155.169.5:9503
   - name: Serveur 4
-    url: http://45.155.169.5:9665
+    url: http://45.155.169.5:9504
   - name: Serveur 5
-    url: http://45.155.169.5:9666
+    url: http://45.155.169.5:9505
   - name: Serveur 6
-    url: http://45.155.169.5:9667
+    url: http://45.155.169.5:9506
   - name: Serveur 7
-    url: http://45.155.169.5:9653
+    url: http://45.155.169.5:9507
   - name: Serveur 8
-    url: http://45.155.169.5:9654
+    url: http://45.155.169.5:9508
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
