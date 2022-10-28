@@ -26,19 +26,19 @@
     "url": "https://spm-corp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/spm-corp.fr.ico",
     "slug": "site-web",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.89%",
-    "time": 1502,
-    "timeDay": 848,
-    "timeWeek": 2286,
-    "timeMonth": 1973,
-    "timeYear": 1502,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.87%",
+    "time": 1498,
+    "timeDay": 927,
+    "timeWeek": 2191,
+    "timeMonth": 1953,
+    "timeYear": 1498,
     "dailyMinutesDown": {
-      "2022-10-28": 103
+      "2022-10-28": 121
     }
   },
   {
