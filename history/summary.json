@@ -26,19 +26,19 @@
     "url": "https://spm-corp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/spm-corp.fr.ico",
     "slug": "site-web",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1532,
     "timeDay": 1173,
     "timeWeek": 2719,
     "timeMonth": 2051,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2022-10-28": 10
+      "2022-10-28": 0
     }
   },
   {
@@ -109,7 +109,7 @@
     "slug": "serveur-3",
     "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "86.37%",
+    "uptimeDay": "86.99%",
     "uptimeWeek": "80.78%",
     "uptimeMonth": "95.06%",
     "uptimeYear": "97.66%",
