@@ -5,8 +5,8 @@ repo: Status-services # The name of this repository
 sites:
   - name: Host
     url: $SECRET_SITE
-  - name: Site web
-    url: https://spm-corp.fr
+#  - name: Site web
+#    url: https://spm-corp.fr
 
    ##-- Services assetto corsa competizion --##
   - name: ACC Tracker
